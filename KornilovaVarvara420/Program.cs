@@ -83,7 +83,7 @@ namespace KornilovaVarvara420
                     BattleWithBoss(player, boss);  // Бой с боссом
                     if (player.Health > 0)
                     {
-                        Console.WriteLine("Вы победили босса и выиграли игру!");
+                        Console.WriteLine("Вы победили босса и выиграли игру!");//
                     }
                 }
             }
